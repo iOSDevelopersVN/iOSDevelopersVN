@@ -88,3 +88,5 @@ Closed, now open source at [http://parseplatform.org/](http://parseplatform.org/
 - [https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
 
 - [AppCoda: Using Vision Framework for Text Detection in iOS 11](https://www.appcoda.com/vision-framework-introduction/)
+
+- [Using Core ML in iOS from A to Z](https://medium.com/@baolan2005/using-core-ml-in-ios-from-a-to-z-f955b6ae5c70)
