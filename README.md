@@ -24,8 +24,14 @@
 - [iOS-Blog: Developing iOS8 Apps Using Swift – Part 2 – Connect to the iTunes Search API](http://www.ios-blog.co.uk/tutorials/swift/developing-ios8-apps-using-swift-part-2-connect-to-the-itunes-search-api/)
 - [iOS-Blog: Developing iOS8 Apps Using Swift – Part 3 – Best Practices](http://www.ios-blog.co.uk/tutorials/swift/developing-ios8-apps-using-swift-part-3-best-practices/)
 
+- [Codable swift 4](https://gg4acrossover.github.io/hugosite/codable-swift4/)
+
+
 ### Awesome Swift
-- [https://github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
+- [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios) ~ 23.000 `:star:`
+- [A collaborative list of awesome Swift libraries and resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift) ~ 13.500 `:star:`
+- [A curated list of awesome Swift frameworks, libraries and software](https://github.com/Wolg/awesome-swift)
 
 ### Objective-C
 
@@ -38,6 +44,7 @@
 - [iOS Architecture: MVVM](https://medium.com/@dzungnguyen.hcm/ios-architecture-mvvm-7166d025dbbe)
 - [iOS App Architecture](https://medium.com/@karthikkeyan/ios-app-architecture-3f1d1400862f)
 - [MVVM in iOS](https://medium.com/ios-os-x-development/mvvm-in-ios-from-net-perspective-580eb7f4f129)
+- [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0)
 
 ### Tutorial Series
 - [MakeSchool: Build a Photo Sharing App](https://www.makeschool.com/online-courses/tutorials/build-a-photo-sharing-app-9f153781-8df0-4909-8162-bb3b3a2f7a81/getting-started)
@@ -60,9 +67,21 @@ Closed, now open source at [http://parseplatform.org/](http://parseplatform.org/
 - [AppCoda: Parse Migration: How to Setup and Deploy Parse Server on Heroku or AWS](https://appcoda.com/parse-server-installation/)
 
 
-### App Security Topics
+### Core ML (Core Machine Learning)
 
-- [App sercuirty by Tan Nguyen Ba](https://www.facebook.com/groups/iosdevelopersvn/permalink/1031827683625553/?hc_location=ufi)
+- [Using Core ML in iOS from A to Z](https://medium.com/@baolan2005/using-core-ml-in-ios-from-a-to-z-f955b6ae5c70)
+
+
+### Hot Topics on Facebook Group
+
+- [App sercuirty by Tan Nguyen Ba](https://www.facebook.com/groups/iosdevelopersvn/permalink/1031827683625553/)
+
+- [Library or Framework ?](https://www.facebook.com/groups/iosdevelopersvn/permalink/1042769719198016/)
+
+- [About App Architecture](https://www.facebook.com/groups/iosdevelopersvn/permalink/1039452236196431/)
+
+- [Nested closures](https://www.facebook.com/groups/iosdevelopersvn/permalink/1039453699529618/)
+
 
 
 ### Others
@@ -88,5 +107,3 @@ Closed, now open source at [http://parseplatform.org/](http://parseplatform.org/
 - [https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
 
 - [AppCoda: Using Vision Framework for Text Detection in iOS 11](https://www.appcoda.com/vision-framework-introduction/)
-
-- [Using Core ML in iOS from A to Z](https://medium.com/@baolan2005/using-core-ml-in-ios-from-a-to-z-f955b6ae5c70)
