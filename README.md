@@ -29,8 +29,8 @@
 
 ### Awesome Swift
 
-- [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios) ~ 23.000 `:star:`
-- [A collaborative list of awesome Swift libraries and resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift) ~ 13.500 `:star:`
+- [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios) ~ 23.000 :star:
+- [A collaborative list of awesome Swift libraries and resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift) ~ 13.500 :star:
 - [A curated list of awesome Swift frameworks, libraries and software](https://github.com/Wolg/awesome-swift)
 
 ### Objective-C
