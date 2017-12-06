@@ -1,7 +1,7 @@
 # iOS Developers VN
 
 <p align="center">
-  <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" />
+  <img src="https://github.com/iOSDevelopersVN/iOSDevelopersVN/blob/master/images/iOS-Developer.jpg" alt="iOS Developers VN" />
 </p>
 
 # Index
