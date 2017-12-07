@@ -40,14 +40,22 @@
 
 ### iOS App Architectures
 
+#### General
 - [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [iOS Architecture: MVVM](https://medium.com/@dzungnguyen.hcm/ios-architecture-mvvm-7166d025dbbe)
 - [iOS App Architecture](https://medium.com/@karthikkeyan/ios-app-architecture-3f1d1400862f)
+
+#### MVVM (Model-View-ViewModel)
 - [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0)
 - [View Model Validation in iOS](https://medium.com/@azamsharp/validation-in-mvvm-for-ios-5a819be221c8)
 - [MVVM in iOS](https://medium.com/ios-os-x-development/mvvm-in-ios-from-net-perspective-580eb7f4f129)
 - [MVVM in iOS — View Model and Networking](https://medium.com/@azamsharp/mvvm-in-ios-viewmodel-and-networking-5bbe1d768c7f)
 - [IBM: Using a Model-View-ViewModel architecture for iOS Ready Apps](https://developer.ibm.com/open/2015/12/16/using-a-model-view-viewmodel-architecture-for-ios-ready-apps/) - ([Full source code `IBM Ready App for Travel and Transportation`](https://github.com/IBM-MIL/IBM-Ready-App-for-Travel))
+
+#### Clean Architecture
+- [Uncle Bob’s Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) :star:
+- [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
+- [Clean Swift iOS Architecture for Fixing Massive View Controlle](https://clean-swift.com/clean-swift-ios-architecture/)
 
 ### Tutorial Series
 - [MakeSchool: Build a Photo Sharing App](https://www.makeschool.com/online-courses/tutorials/build-a-photo-sharing-app-9f153781-8df0-4909-8162-bb3b3a2f7a81/getting-started)
