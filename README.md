@@ -77,12 +77,17 @@ Closed, now open source at [http://parseplatform.org/](http://parseplatform.org/
 
 ### Hot Topics on Facebook Group
 
+#### App sercuirty
 - [App sercuirty by Tan Nguyen Ba](https://www.facebook.com/groups/iosdevelopersvn/permalink/1031827683625553/)
 
+#### Libraries / Frameworks
 - [Library or Framework ?](https://www.facebook.com/groups/iosdevelopersvn/permalink/1042769719198016/)
 
+#### App Architectures
 - [About App Architecture](https://www.facebook.com/groups/iosdevelopersvn/permalink/1039452236196431/)
+- [`Data Manager`, `Services Layer`in `MVVM` pattern](https://www.facebook.com/groups/iosdevelopersvn/permalink/1046282235513431)
 
+#### Closures
 - [Nested closures](https://www.facebook.com/groups/iosdevelopersvn/permalink/1039453699529618/)
 
 
