@@ -55,7 +55,7 @@
 #### Clean Architecture
 - [Uncle Bob’s Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) :star:
 - [Introducing Clean Swift Architecture (VIP)](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
-- [Clean Swift iOS Architecture for Fixing Massive View Controller](https://clean-swift.com/clean-swift-ios-architecture
+- [Clean Swift iOS Architecture for Fixing Massive View Controller](https://clean-swift.com/clean-swift-ios-architecture)
 
 #### VIPER (View - Interactor - Presenter - Entity - Router)
 - [iOS Project Architecture: Using VIPER](https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/)
