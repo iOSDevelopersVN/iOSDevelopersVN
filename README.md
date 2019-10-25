@@ -102,6 +102,20 @@ Closed, now open source at [http://parseplatform.org/](http://parseplatform.org/
 #### Closures
 - [Nested closures](https://www.facebook.com/groups/iosdevelopersvn/permalink/1039453699529618/)
 
+### CI - CD:
+- https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5
+- https://www.appcoda.com/fastlane-introduction/
+- https://medium.com/@cherrmann.com/continuous-integration-and-delivery-for-ios-with-jenkins-and-fastlane-part-1-3b17f1901a73
+
+### S.O.L.I.D in Swift:
+#### English:
+- [SOLID Principle] https://marcosantadev.com/solid-principles-applied-swift/
+#### Vietnamese:
+- [Single Responsibility] http://www.swiftyvn.com/ios-pattern-phan-2-nguyen-ly-s-o-l-i-d-chu-s/
+- [Open-Closed] http://www.swiftyvn.com/ios-pattern-phan-3-nguyen-ly-s-o-l-i-d-chu-o/
+- [Liskov Substitution] http://www.swiftyvn.com/ios-pattern-phan-4-nguyen-ly-s-o-l-i-d-chu-l/
+- [Interface Segregation] http://www.swiftyvn.com/ios-pattern-phan-5-nguyen-ly-s-o-l-i-d-chu-i/
+- [Dependency Inversion] http://www.swiftyvn.com/ios-pattern-phan-6-nguyen-ly-s-o-l-i-d-chu-d/
 
 
 ### Others
